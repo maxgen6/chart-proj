@@ -1,9 +1,11 @@
 import React from "react";
 
+import { TableBlock } from "./views";
+
 function App() {
   return (
     <div className="container">
-      1
+      <TableBlock />
     </div>
   );
 }

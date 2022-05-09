@@ -1,0 +1,26 @@
+.table__block {
+
+  .ant-table-thead {
+
+    .ant-table-cell {
+      font-size: 12px;
+      color: green;
+    }
+  }
+
+  p {
+    font-size: 10px;
+    color: #3db7fa;
+  }
+
+  .table__block--sale {
+    color: #000000;
+  }
+
+  .table__block--title {
+    max-width: 150px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+}

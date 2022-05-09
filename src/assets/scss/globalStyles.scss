@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  background: #eeeeee;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.container {
+  padding-top: 40px;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
